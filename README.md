@@ -12,3 +12,5 @@ Translate files License are belongs to me and translator.
 
 I don't forgive the man who steal my quests and is going to re-upload.
 Additionally, use my modified mods, and call them malware.
+
+Sorry for making issues in previous repositry, I set private.
